@@ -53,3 +53,6 @@ class SingleContactItem extends StatelessWidget {
 // one more tip i am going to give you my source code if you are getting any error
 // you can check the source code and see if you can find the error
 // uploading on github
+// commited code you can now check i will give you link in description
+// Thanks for watching
+ // have a good day
